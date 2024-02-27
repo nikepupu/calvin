@@ -165,12 +165,34 @@ If you additionally want to sample different language annotations for each seque
 
 ## :chart_with_upwards_trend: SOTA Models
 Open-source models that outperform the MCIL baselines from CALVIN:
+
+For a detailed overview of the evaluation performances, have a look at our **[LEADERBOARD](http://calvin.cs.uni-freiburg.de/)**.
+
 <br>
 <b> Grounding Language with Visual Affordances over Unstructured Data</b>
 <br>
 Oier Mees, Jessica Borja-Diaz, Wolfram Burgard
 <br>
 <a href="https://arxiv.org/pdf/2210.01911.pdf"> Paper</a>, <a href="https://github.com/mees/hulc2"> Code </a>
+
+
+<b> 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations</b>
+<br>
+Tsung-Wei Ke, Nikolaos Gkanatsios, Katerina Fragkiadaki
+<br>
+<a href="https://arxiv.org/pdf/2402.10885.pdf"> Paper</a>, <a href="https://github.com/nickgkan/3d_diffuser_actor"> Code </a>
+
+<b> Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation</b>
+<br>
+Hongtao Wu, Ya Jing, Chilam Cheang, Guangzeng Chen, Jiafeng Xu, Xinghang Li, Minghuan Liu, Hang Li, Tao Kong
+<br>
+<a href="https://arxiv.org/pdf/2312.13139.pdf"> Paper</a>, <a href="https://gr1-manipulation.github.io"> Code </a>
+
+<b> Vision-Language Foundation Models as Effective Robot Imitators</b>
+<br>
+Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang, Ya Jing, Weinan Zhang, Huaping Liu, Hang Li, and Tao Kong
+<br>
+<a href="https://arxiv.org/pdf/2311.01378.pdf"> Paper</a>, <a href="https://github.com/RoboFlamingo/RoboFlamingo"> Code </a>
 
 <b> Zero-Shot Robotic Manipulation With Pretrained Image-Editing Diffusion Models</b>
 <br>
