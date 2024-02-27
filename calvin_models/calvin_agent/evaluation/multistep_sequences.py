@@ -365,6 +365,7 @@ def get_sequences(num_sequences=1000, num_workers=None):
     initial_states = [dict(zip(possible_conditions.keys(), vals)) for vals in value_combinations]
 
     num_sequences_per_state = list(map(len, np.array_split(range(num_sequences), len(initial_states))))
+   
     logger.info("Start generating evaluation sequences.")
     # set the numpy seed temporarily to 0
     with temp_seed(0):
